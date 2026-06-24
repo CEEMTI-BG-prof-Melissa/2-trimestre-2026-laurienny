@@ -1,1 +1,17 @@
+a{
+  color: pink;
+}
 
+a:hover{
+  color: blue;
+}
+
+a:visited{
+  color: green;
+}
+
+a:focus{
+  border: 10px solid: red;
+}
+
+a:first-
