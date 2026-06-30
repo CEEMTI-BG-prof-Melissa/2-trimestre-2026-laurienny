@@ -14,4 +14,12 @@ a:focus{
   border: 10px solid: red;
 }
 
-a:first-
+a:first-child{
+  font-weigth: bold;
+}
+
+a:last-child{
+  background-color: black;
+}
+
+a
